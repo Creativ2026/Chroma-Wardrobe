@@ -1,3 +1,2 @@
 /*
-  Access-Control-Allow-Origin: *
-  Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.supabase.co https://cdn.jsdelivr.net https://fonts.googleapis.com https://fonts.gstatic.com
+  X-Frame-Options: SAMEORIGIN
